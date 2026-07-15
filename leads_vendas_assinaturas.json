@@ -1,0 +1,59 @@
+{
+  "data_geracao": "2026-07-08T20:07:22.896341",
+  "total_leads": 3,
+  "leads_quentes": 3,
+  "leads_mornos": 0,
+  "leads": [
+    {
+      "nome": "Como Criar uma Associação em 2026: Guia Completo - HiGestor",
+      "url": "https://higestor.com.br/blog/como-criar-uma-associacao/",
+      "emails": [],
+      "telefones": [
+        "(48) 3035-2319",
+        "31 982544269",
+        "(47) 3261-4880",
+        "26199983859",
+        "38156286623"
+      ],
+      "classificacao": "Quente",
+      "score_potencial": 18,
+      "score_positivos": 9,
+      "score_tecnologia": 9,
+      "tem_contato": true,
+      "tamanho_conteudo": 62784,
+      "query_origem": "\"associação sem fins lucrativos\" membros assinatura Brasil"
+    },
+    {
+      "nome": "Como criar uma associação sem fins lucrativos? - IDEA",
+      "url": "https://institutodea.com/artigo/como-criar-uma-associacao-sem-fins-lucrativos/",
+      "emails": [
+        "olivia@bsa.legal"
+      ],
+      "telefones": [],
+      "classificacao": "Quente",
+      "score_potencial": 12,
+      "score_positivos": 8,
+      "score_tecnologia": 4,
+      "tem_contato": true,
+      "tamanho_conteudo": 14808,
+      "query_origem": "\"associação sem fins lucrativos\" membros assinatura Brasil"
+    },
+    {
+      "nome": "Acelerando o impacto de ONGs focadas em educação",
+      "url": "https://team4tech.org/pt/aceleradora-de-ongs/",
+      "emails": [],
+      "telefones": [
+        "0000259562",
+        "3114972096",
+        "0000381643"
+      ],
+      "classificacao": "Quente",
+      "score_potencial": 9,
+      "score_positivos": 3,
+      "score_tecnologia": 6,
+      "tem_contato": true,
+      "tamanho_conteudo": 9250,
+      "query_origem": "ONG Brasil tecnologia digital inovação parceiras"
+    }
+  ]
+}
